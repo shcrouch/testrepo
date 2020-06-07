@@ -1,3 +1,3 @@
 # testrepo
 # first commit shcrouch
-# SDCSCRIPTS ADDITIONAL THING HERE -NO CONFLICT, CHANGE ONE. CHANGE 2
+# changed mind - this is better
