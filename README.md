@@ -1,2 +1,3 @@
 # testrepo
-# first commit shcrouch  ADD FIRST LINE CHANGE ADD SECOND LINE CHANGE
+# first commit shcrouch
+# SDCSCRIPTS ADDITIONAL THING HERE -NO CONFLICT, CHANGE ONE. CHANGE 2
