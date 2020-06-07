@@ -1,5 +1,5 @@
 # testrepo
 # first commit shcrouch
 # sdcripts better - this is better actualy .. take this take this
-# Merge conflict SDCSCRIPTS - I SELECT THIS TO WIN
-
+# EDITED AFTER PULL REQUEST FIXES THE MERGE COMMIT
+# I GIVE UP, YOU WIN
