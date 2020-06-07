@@ -1,3 +1,3 @@
 # testrepo
 # first commit shcrouch
-# sdcripts better
+# changed mind - this is better
