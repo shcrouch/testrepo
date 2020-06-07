@@ -1,2 +1,2 @@
 # testrepo
-# first commit shcrouch  ADD FIRST LINE CHANGE
+# first commit shcrouch  ADD FIRST LINE CHANGE ADD SECOND LINE CHANGE
