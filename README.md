@@ -2,4 +2,6 @@ can we start again? sdcscripts. New merge conflict. NEW CONFLICT SHCROUCH CREATE
 can we start again? sdcscripts. New merge conflict. New again
 BOTH ADDED
 s1 added
-change to see 
+change to see
+
+Proposed change
